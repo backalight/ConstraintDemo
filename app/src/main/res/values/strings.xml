@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ConstraintDemo</string>
+    <string name="actualite_du_jour">ACTUALITE DU JOUR</string>
 </resources>
