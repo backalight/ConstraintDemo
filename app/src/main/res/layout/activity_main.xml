@@ -67,7 +67,7 @@
         android:layout_height="55dp"
         android:layout_marginStart="16dp"
         android:layout_marginLeft="16dp"
-        android:background="@color/colorPrimary"
+
         android:src="@mipmap/vulc"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/ivUnlike" />
